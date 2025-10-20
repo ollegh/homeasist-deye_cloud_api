@@ -1,0 +1,36 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Deye Cloud 2",
+        "description": "Оберіть режим підключення.",
+        "data": {
+          "mode": "Режим"
+        }
+      },
+      "api": {
+        "title": "API Endpoint",
+        "description": "Вкажіть URL API, токен (якщо потрібен) та інтервал опитування.",
+        "data": {
+          "url": "URL API",
+          "token": "Токен доступу",
+          "scan_interval": "Інтервал (с)"
+        }
+      },
+      "deye": {
+        "title": "Deye Cloud Direct",
+        "description": "Вкажіть облікові дані Deye Cloud, сервер та інтервал опитування.",
+        "data": {
+          "app_id": "App ID",
+          "app_secret": "App Secret",
+          "email": "Email",
+          "password": "Пароль",
+          "device_sn": "Device SN",
+          "server": "Сервер",
+          "scan_interval": "Інтервал (с)"
+        }
+      }
+    }
+  }
+}
+

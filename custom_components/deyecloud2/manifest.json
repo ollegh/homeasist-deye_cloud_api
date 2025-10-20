@@ -1,0 +1,14 @@
+{
+  "domain": "deyecloud2",
+  "name": "Deye Cloud 2",
+  "documentation": "https://github.com/ollegh/homeasist-deye_cloud_api",
+  "issue_tracker": "https://github.com/ollegh/homeasist-deye_cloud_api/issues",
+  "version": "0.3.0",
+  "codeowners": ["@ollegh"],
+  "iot_class": "cloud_polling",
+  "config_flow": true,
+  "requirements": [
+    "aiohttp>=3.9.5"
+  ]
+}
+
