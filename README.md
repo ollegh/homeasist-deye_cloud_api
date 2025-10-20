@@ -97,6 +97,3 @@
 - Переклади: `custom_components/deyecloud2/translations/`
 - Іконка: `custom_components/deyecloud2/icon.svg`
 - HACS метадані: `hacs.json`
-
-## Ліцензія
-MIT (замініть за потреби).
